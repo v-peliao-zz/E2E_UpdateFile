@@ -24,10 +24,7 @@
           "**/includes/**"
         ]
       }
-    ],
-    "globalMetadata": {
-        "ROBOTS": "NOINDEX, NOFOLLOW",
-     },
+    ],    
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
