@@ -1,5 +1,5 @@
 ﻿---
-layout: HubPage
+
 ---
 # Microsoft Enterprise Mobility Documentation
 <article id="main">
