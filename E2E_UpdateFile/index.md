@@ -1,5 +1,5 @@
 ﻿---
-
+layout: HugPage
 ---
 layout: HugPage
 # Microsoft Enterprise Mobility Documentation
