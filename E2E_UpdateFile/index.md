@@ -1,6 +1,7 @@
 ﻿---
 
 ---
+layout: HugPage
 # Microsoft Enterprise Mobility Documentation
 <article id="main">
     <section id="hero-content" class="graph">
